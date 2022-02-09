@@ -1,18 +1,3 @@
-# Hi there 👋
-
-# I'm Everton Duarte Guimarães
-
-💻 Junior developer!
-
-📚 Learning about web developer, mostly about front end until now but targeting for React
-
-## Languages and tools
-
-
-## About me
-
-[![hellenmas GitHub stats](https://github-readme-stats.vercel.app/api?username=EvertonDuarteGuimaraes)](https://github.com/EvertonDuarteGuimaraes/github-readme-stats)
-
 <h1 align="center">Hi there 👋, I'm Everton Duarte Guimarães</h1>
 
 - 🌱 I’m currently learning **Bootcamp DIO HTML5/CSS3**
@@ -27,5 +12,14 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=evertonduarteguimaraes&show_icons=true&locale=en&layout=compact" alt="evertonduarteguimaraes" /></p>
 
+💻 Junior developer!
 
+📚 Learning about web developer, mostly about front end until now but targeting for React
+
+## Languages and tools
+
+
+## About me
+
+[![hellenmas GitHub stats](https://github-readme-stats.vercel.app/api?username=EvertonDuarteGuimaraes)](https://github.com/EvertonDuarteGuimaraes/github-readme-stats)
 
