@@ -14,4 +14,4 @@
 
 - You can olso find me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)]( LINK_LINKEDIN)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/everton-duarte-910a65157/)]( https://www.linkedin.com/in/everton-duarte-910a65157/)
