@@ -13,10 +13,7 @@
 
 [![hellenmas GitHub stats](https://github-readme-stats.vercel.app/api?username=EvertonDuarteGuimaraes)](https://github.com/EvertonDuarteGuimaraes/github-readme-stats)
 
-- Thanks for visiting.
-
-<h1 align="center">Hi 👋, I'm Everton Duarte Guimarães</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi there 👋, I'm Everton Duarte Guimarães</h1>
 
 - 🌱 I’m currently learning **Bootcamp DIO HTML5/CSS3**
 
