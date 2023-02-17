@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evertonduarteguimaraes&label=Profile%20views&color=0e75b6&style=flat" alt="evertonduarteguimaraes" /> </p>
 
-- 🌱 I’m currently learning **Bootcamp DIO HTML5/CSS3**
+- 🌱 I’m currently studying in alura.com.br
 
-- 📫 How to reach me **everton.duarte@academico.ifpb.edu.br**
+- 📫 How to reach me **everton2018dg@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
